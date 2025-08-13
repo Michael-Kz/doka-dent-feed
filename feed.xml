@@ -52,7 +52,7 @@
             <param name="Имя">Ирина</param>
             <param name="Отчество">Леонидовна</param>
             <param name="Годы опыта">40</param>
-            <param name="Начало карьеры">1965-01-01</param>
+            <param name="Начало карьеры">1985-01-01</param>
             <param name="Город">г. Москва</param>
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">true</param>
@@ -328,7 +328,7 @@
             <param name="Фамилия">Лукина</param>
             <param name="Имя">Ирина</param>
             <param name="Отчество">Александровна</param>
-            <param name="Годы опыта">26</param>
+            <param name="Годы опыта">0</param>
             <param name="Начало карьеры">1999-01-01</param>
             <param name="Город">г. Москва</param>
             <param name="Взрослый врач">true</param>
@@ -429,7 +429,7 @@
             <param name="Фамилия">Деева</param>
             <param name="Имя">Наталья</param>
             <param name="Отчество">Николаевна</param>
-            <param name="Годы опыта">29</param>
+            <param name="Годы опыта">0</param>
             <param name="Начало карьеры">1996-01-01</param>
             <param name="Город">г. Москва</param>
             <param name="Взрослый врач">true</param>
@@ -481,7 +481,7 @@
             <param name="Фамилия">Абдулхалимов</param>
             <param name="Имя">Шамиль</param>
             <param name="Отчество">Магомедович</param>
-            <param name="Годы опыта">11</param>
+            <param name="Годы опыта">0</param>
             <param name="Начало карьеры">2013-01-01</param>
             <param name="Город">г. Москва</param>
             <param name="Взрослый врач">true</param>
