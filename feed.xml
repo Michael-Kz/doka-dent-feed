@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-08-13 07:00">
+<yml_catalog date="2025-08-13 14:30">
    <shop>
       <name>Дока-Дент</name>
       <company>Дока-Дент</company>
@@ -36,6 +36,7 @@
          </set>
       </sets>
       <offers>
+         <!-- Канорова Ирина Леонидовна -->
          <offer id="kanorova" group_id="1">
             <name>Канорова Ирина Леонидовна</name>
             <url>https://doka-dent.ru/?kanorova</url>
@@ -56,6 +57,7 @@
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">true</param>
             <param name="Число отзывов">10</param>
+            <param name="Средняя оценка">5.0</param>
             <param name="Категория">Высшая категория</param>
             <param name="Город клиники">г. Москва</param>
             <param name="Адрес клиники">Ленинский проспект, 131</param>
@@ -63,6 +65,7 @@
             <param name="Возможность записи">true</param>
             <param name="Онлайн-расписание">true</param>
             <param name="Телефон для записи">+74953690197</param>
+            <param name="Идентификатор организации">1234567890</param>
             <param name="Прием по ОМС">false</param>
             <param name="Вызов на дом">false</param>
             <param name="Прием по видеосвязи">false</param>
@@ -83,8 +86,431 @@
             <param name="Место работы - 3" unit="Организация">Центральная поликлиника МВД УзССР</param>
             <param name="Место работы - 3" unit="Дата">1988-1994</param>
             <param name="Место работы - 3" unit="Название">врач-стоматолог-терапевт</param>
+            <param name="Место работы - 4" unit="Организация">ООО «СП МЕДИКАЛ»</param>
+            <param name="Место работы - 4" unit="Дата">1994-1998</param>
+            <param name="Место работы - 4" unit="Название">терапевт-стоматолог</param>
+            <param name="Место работы - 5" unit="Организация">ООО «Дантист»</param>
+            <param name="Место работы - 5" unit="Дата">1998-2009</param>
+            <param name="Место работы - 5" unit="Название">врач-стоматолог терапевт</param>
+            <param name="Место работы - 6" unit="Организация">ООО «Дока-Дент»</param>
+            <param name="Место работы - 6" unit="Дата">2009-2010</param>
+            <param name="Место работы - 6" unit="Название">генеральный директор</param>
+            <param name="Место работы - 7" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 7" unit="Дата">2010-2017</param>
+            <param name="Место работы - 7" unit="Название">генеральный директор</param>
+            <param name="Место работы - 8" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 8" unit="Дата">2017-н.в</param>
+            <param name="Место работы - 8" unit="Название">главный врач</param>
          </offer>
-         <!-- Остальные офферы в аналогичном формате -->
+
+         <!-- Ким Алла Александровна -->
+         <offer id="kim" group_id="2">
+            <name>Ким Алла Александровна</name>
+            <url>https://doka-dent.ru/?kim</url>
+            <price from="true">2500</price>
+            <oldprice>3000</oldprice>
+            <currencyId>RUR</currencyId>
+            <sales_notes>Первичный прием</sales_notes>
+            <set-ids>stomatolog,terapevt</set-ids>
+            <picture>https://feeds-doka-dent.ru/feed/images/kim.jpg</picture>
+            <description>Специализируется на лечении кариеса, пульпита, периодонтита под микроскопом, протезировании</description>
+            <categoryId>1</categoryId>
+            <param name="Фамилия">Ким</param>
+            <param name="Имя">Алла</param>
+            <param name="Отчество">Александровна</param>
+            <param name="Годы опыта">17</param>
+            <param name="Начало карьеры">2008-01-01</param>
+            <param name="Город">г. Москва</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">true</param>
+            <param name="Число отзывов">10</param>
+            <param name="Средняя оценка">5.0</param>
+            <param name="Категория">Первая категория</param>
+            <param name="Город клиники">г. Москва</param>
+            <param name="Адрес клиники">Ленинский проспект, 131</param>
+            <param name="Название клиники">Дока-Дент</param>
+            <param name="Возможность записи">true</param>
+            <param name="Онлайн-расписание">true</param>
+            <param name="Телефон для записи">+74953690197</param>
+            <param name="Идентификатор организации">1234567890</param>
+            <param name="Прием по ОМС">false</param>
+            <param name="Вызов на дом">false</param>
+            <param name="Прием по видеосвязи">false</param>
+            <param name="Образование - 1" unit="Организация">Ташкентская медицинская академия</param>
+            <param name="Образование - 1" unit="Дата">2008</param>
+            <param name="Образование - 1" unit="Название">Базовое образование</param>
+            <param name="Образование - 1" unit="Специализация">Стоматология</param>
+            <param name="Образование - 2" unit="Организация">Российский институт дружбы народов</param>
+            <param name="Образование - 2" unit="Дата">2009</param>
+            <param name="Образование - 2" unit="Название">Интернатура</param>
+            <param name="Образование - 2" unit="Специализация">Стоматология общей практики</param>
+            <param name="Место работы - 1" unit="Организация">ООО «Эга-М»</param>
+            <param name="Место работы - 1" unit="Дата">2008-2013</param>
+            <param name="Место работы - 1" unit="Название">врач-стоматолог-терапевт</param>
+            <param name="Место работы - 2" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 2" unit="Дата">2013-н.в</param>
+            <param name="Место работы - 2" unit="Название">врач-стоматолог-терапевт</param>
+         </offer>
+
+         <!-- Привалов Вячеслав Васильевич -->
+         <offer id="privalov" group_id="3">
+            <name>Привалов Вячеслав Васильевич</name>
+            <url>https://doka-dent.ru/?privalov</url>
+            <price from="true">5000</price>
+            <oldprice>6000</oldprice>
+            <currencyId>RUR</currencyId>
+            <sales_notes>Первичный прием</sales_notes>
+            <set-ids>stomatolog,hirurg,ortoped</set-ids>
+            <picture>https://feeds-doka-dent.ru/feed/images/privalov.jpg</picture>
+            <description>Специализируется на имплантации, протезировании, удалении</description>
+            <categoryId>1</categoryId>
+            <param name="Фамилия">Привалов</param>
+            <param name="Имя">Вячеслав</param>
+            <param name="Отчество">Васильевич</param>
+            <param name="Годы опыта">17</param>
+            <param name="Начало карьеры">2002-01-01</param>
+            <param name="Город">г. Москва</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            <param name="Число отзывов">10</param>
+            <param name="Средняя оценка">5.0</param>
+            <param name="Степень">Кандидат медицинских наук</param>
+            <param name="Категория">Высшая категория</param>
+            <param name="Город клиники">г. Москва</param>
+            <param name="Адрес клиники">Ленинский проспект, 131</param>
+            <param name="Название клиники">Дока-Дент</param>
+            <param name="Возможность записи">true</param>
+            <param name="Онлайн-расписание">true</param>
+            <param name="Телефон для записи">+74953690197</param>
+            <param name="Идентификатор организации">1234567890</param>
+            <param name="Прием по ОМС">false</param>
+            <param name="Вызов на дом">false</param>
+            <param name="Прием по видеосвязи">false</param>
+            <param name="Образование - 1" unit="Организация">Северный государственный медицинский университет г. Архангельск</param>
+            <param name="Образование - 1" unit="Дата">2002</param>
+            <param name="Образование - 1" unit="Название">Базовое образование</param>
+            <param name="Образование - 1" unit="Специализация">Стоматология</param>
+            <param name="Образование - 2" unit="Организация">ГП №1 г. Мурманска</param>
+            <param name="Образование - 2" unit="Дата">2003</param>
+            <param name="Образование - 2" unit="Название">Интернатура</param>
+            <param name="Образование - 2" unit="Специализация">Стоматология</param>
+            <param name="Место работы - 1" unit="Организация">МУЗ «Стоматологическая поликлиника №1» г. Мурманск</param>
+            <param name="Место работы - 1" unit="Дата">2002-2003</param>
+            <param name="Место работы - 1" unit="Название">врач-стоматолог</param>
+            <param name="Место работы - 2" unit="Организация">ООО «Стоматологическая клиника Доктора Антуана»</param>
+            <param name="Место работы - 2" unit="Дата">2004</param>
+            <param name="Место работы - 2" unit="Название">врач-стоматолог</param>
+            <param name="Место работы - 3" unit="Организация">ООО «Здоровье-М»</param>
+            <param name="Место работы - 3" unit="Дата">2004-2008</param>
+            <param name="Место работы - 3" unit="Название">стоматолог-ортопед</param>
+            <param name="Место работы - 4" unit="Организация">ООО «Тари»</param>
+            <param name="Место работы - 4" unit="Дата">2008-2009</param>
+            <param name="Место работы - 4" unit="Название">врач-стоматолог</param>
+            <param name="Место работы - 5" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 5" unit="Дата">2010-н.в</param>
+            <param name="Место работы - 5" unit="Название">стоматолог-хирург-ортопед</param>
+         </offer>
+
+         <!-- Слабковская Наталья Игоревна -->
+         <offer id="slabkovskaya" group_id="4">
+            <name>Слабковская Наталья Игоревна</name>
+            <url>https://doka-dent.ru/?slabkovskaya</url>
+            <price from="true">2500</price>
+            <oldprice>3000</oldprice>
+            <currencyId>RUR</currencyId>
+            <sales_notes>Первичный прием</sales_notes>
+            <set-ids>stomatolog,ortodont</set-ids>
+            <picture>https://feeds-doka-dent.ru/feed/images/slabkovskaya.jpg</picture>
+            <description>Специализируется на коррекции прикуса с использованием современных брекет-систем, съёмных и несъёмных аппаратов и элайнеров</description>
+            <categoryId>1</categoryId>
+            <param name="Фамилия">Слабковская</param>
+            <param name="Имя">Наталья</param>
+            <param name="Отчество">Игоревна</param>
+            <param name="Годы опыта">16</param>
+            <param name="Начало карьеры">2008-01-01</param>
+            <param name="Город">г. Москва</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            <param name="Число отзывов">10</param>
+            <param name="Средняя оценка">5.0</param>
+            <param name="Категория">Первая категория</param>
+            <param name="Город клиники">г. Москва</param>
+            <param name="Адрес клиники">Ленинский проспект, 131</param>
+            <param name="Название клиники">Дока-Дент</param>
+            <param name="Возможность записи">true</param>
+            <param name="Онлайн-расписание">true</param>
+            <param name="Телефон для записи">+74953690197</param>
+            <param name="Идентификатор организации">1234567890</param>
+            <param name="Прием по ОМС">false</param>
+            <param name="Вызов на дом">false</param>
+            <param name="Прием по видеосвязи">false</param>
+            <param name="Образование - 1" unit="Организация">Кишиневский государственный университет медицины и фармации им. Н. Тестемицану, Республика Молдова</param>
+            <param name="Образование - 1" unit="Дата">2005</param>
+            <param name="Образование - 1" unit="Название">Базовое образование</param>
+            <param name="Образование - 1" unit="Специализация">Стоматология</param>
+            <param name="Образование - 2" unit="Организация">ГУЗ «Республиканская стоматологическая поликлиника» г. Тирасполя</param>
+            <param name="Образование - 2" unit="Дата">2006</param>
+            <param name="Образование - 2" unit="Название">Интернатура</param>
+            <param name="Образование - 2" unit="Специализация">Стоматология</param>
+            <param name="Образование - 3" unit="Организация">Московский государственный медико-стоматологический университет (МГМСУ), кафедра «Ортодонтии и детского протезирования»</param>
+            <param name="Образование - 3" unit="Дата">2008</param>
+            <param name="Образование - 3" unit="Название">Ординатура</param>
+            <param name="Образование - 3" unit="Специализация">Ортодонтия</param>
+            <param name="Место работы - 1" unit="Организация">Стоматологическая клиника «Тари»</param>
+            <param name="Место работы - 1" unit="Дата">2008-2009</param>
+            <param name="Место работы - 1" unit="Название">стоматолог-ортодонт</param>
+            <param name="Место работы - 2" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 2" unit="Дата">2015-н.в.</param>
+            <param name="Место работы - 2" unit="Название">стоматолог-ортодонт</param>
+         </offer>
+
+         <!-- Поташева Елена Леонидовна -->
+         <offer id="potasheva" group_id="5">
+            <name>Поташева Елена Леонидовна</name>
+            <url>https://doka-dent.ru/?potasheva</url>
+            <price from="true">2500</price>
+            <oldprice>3000</oldprice>
+            <currencyId>RUR</currencyId>
+            <sales_notes>Первичный прием</sales_notes>
+            <set-ids>stomatolog,hirurg,ortoped,terapevt</set-ids>
+            <picture>https://feeds-doka-dent.ru/feed/images/potasheva.jpg</picture>
+            <description>Специализируется на лечении кариеса, пульпита, периодонтита, удалении, имплантации, протезировании</description>
+            <categoryId>1</categoryId>
+            <param name="Фамилия">Поташева</param>
+            <param name="Имя">Елена</param>
+            <param name="Отчество">Леонидовна</param>
+            <param name="Годы опыта">14</param>
+            <param name="Начало карьеры">2012-01-01</param>
+            <param name="Город">г. Москва</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">true</param>
+            <param name="Число отзывов">10</param>
+            <param name="Средняя оценка">5.0</param>
+            <param name="Категория">Первая категория</param>
+            <param name="Город клиники">г. Москва</param>
+            <param name="Адрес клиники">Ленинский проспект, 131</param>
+            <param name="Название клиники">Дока-Дент</param>
+            <param name="Возможность записи">true</param>
+            <param name="Онлайн-расписание">true</param>
+            <param name="Телефон для записи">+74953690197</param>
+            <param name="Идентификатор организации">1234567890</param>
+            <param name="Прием по ОМС">false</param>
+            <param name="Вызов на дом">false</param>
+            <param name="Прием по видеосвязи">false</param>
+            <param name="Образование - 1" unit="Организация">Московский государственный медико-стоматологический университет (МГМСУ)</param>
+            <param name="Образование - 1" unit="Дата">2010</param>
+            <param name="Образование - 1" unit="Название">Базовое образование</param>
+            <param name="Образование - 1" unit="Специализация">Стоматология</param>
+            <param name="Образование - 2" unit="Организация">Московский государственный медико-стоматологический университет (МГМСУ)</param>
+            <param name="Образование - 2" unit="Дата">2011</param>
+            <param name="Образование - 2" unit="Название">Интернатура</param>
+            <param name="Образование - 2" unit="Специализация">Стоматология общей практики</param>
+            <param name="Место работы - 1" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 1" unit="Дата">2012-н.в.</param>
+            <param name="Место работы - 1" unit="Название">стоматолог-терапевт</param>
+            <param name="Место работы - 2" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 2" unit="Дата">2012-н.в.</param>
+            <param name="Место работы - 2" unit="Название">стоматолог детский</param>
+         </offer>
+
+         <!-- Лукина Ирина Александровна -->
+         <offer id="lukina" group_id="6">
+            <name>Лукина Ирина Александровна</name>
+            <url>https://doka-dent.ru/?lukina</url>
+            <price from="true">2500</price>
+            <oldprice>3000</oldprice>
+            <currencyId>RUR</currencyId>
+            <sales_notes>Первичный прием</sales_notes>
+            <set-ids>stomatolog,terapevt</set-ids>
+            <picture>https://feeds-doka-dent.ru/feed/images/lukina.png</picture>
+            <description>Специализируется на лечении кариеса, пульпита, периодонтита под микроскопом</description>
+            <categoryId>1</categoryId>
+            <param name="Фамилия">Лукина</param>
+            <param name="Имя">Ирина</param>
+            <param name="Отчество">Александровна</param>
+            <param name="Годы опыта">26</param>
+            <param name="Начало карьеры">1999-01-01</param>
+            <param name="Город">г. Москва</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">true</param>
+            <param name="Число отзывов">10</param>
+            <param name="Средняя оценка">5.0</param>
+            <param name="Категория">Высшая категория</param>
+            <param name="Город клиники">г. Москва</param>
+            <param name="Адрес клиники">Ленинский проспект, 131</param>
+            <param name="Название клиники">Дока-Дент</param>
+            <param name="Возможность записи">true</param>
+            <param name="Онлайн-расписание">true</param>
+            <param name="Телефон для записи">+74953690197</param>
+            <param name="Идентификатор организации">1234567890</param>
+            <param name="Прием по ОМС">false</param>
+            <param name="Вызов на дом">false</param>
+            <param name="Прием по видеосвязи">false</param>
+            <param name="Образование - 1" unit="Организация">Нижегородская государственная медицинская академия</param>
+            <param name="Образование - 1" unit="Дата">1993</param>
+            <param name="Образование - 1" unit="Название">Базовое образование</param>
+            <param name="Образование - 1" unit="Специализация">Стоматология</param>
+            <param name="Образование - 2" unit="Организация">Нижегородская государственная медицинская академия</param>
+            <param name="Образование - 2" unit="Дата">1999</param>
+            <param name="Образование - 2" unit="Название">Интернатура</param>
+            <param name="Образование - 2" unit="Специализация">Терапевтическая стоматология</param>
+            <param name="Место работы - 1" unit="Организация">Поликлиника №35</param>
+            <param name="Место работы - 1" unit="Дата">1999-2000</param>
+            <param name="Место работы - 1" unit="Название">зубной врач</param>
+            <param name="Место работы - 2" unit="Организация">ОАО «стоматологическая поликлиника «У парка»</param>
+            <param name="Место работы - 2" unit="Дата">2000-2003</param>
+            <param name="Место работы - 2" unit="Название">врач-стоматолог-терапевт</param>
+            <param name="Место работы - 3" unit="Организация">ООО «Стоматологическая клиника «Полев-Дент»</param>
+            <param name="Место работы - 3" unit="Дата">2003-2020</param>
+            <param name="Место работы - 3" unit="Название">врач-стоматолог-терапевт</param>
+            <param name="Место работы - 4" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 4" unit="Дата">2020-н.в.</param>
+            <param name="Место работы - 4" unit="Название">стоматолог-терапевт</param>
+         </offer>
+
+         <!-- Модина Софья Владимировна -->
+         <offer id="modina" group_id="7">
+            <name>Модина Софья Владимировна</name>
+            <url>https://doka-dent.ru/?modina</url>
+            <price from="true">2500</price>
+            <oldprice>3000</oldprice>
+            <currencyId>RUR</currencyId>
+            <sales_notes>Первичный прием</sales_notes>
+            <set-ids>stomatolog,ortodont</set-ids>
+            <picture>https://feeds-doka-dent.ru/feed/images/modina.jpg</picture>
+            <description>Специализируется на коррекции прикуса с использованием современных брекет-систем, съёмных и несъёмных аппаратов и элайнеров</description>
+            <categoryId>1</categoryId>
+            <param name="Фамилия">Модина</param>
+            <param name="Имя">Софья</param>
+            <param name="Отчество">Владимировна</param>
+            <param name="Годы опыта">5</param>
+            <param name="Начало карьеры">2020-01-01</param>
+            <param name="Город">г. Москва</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            <param name="Число отзывов">10</param>
+            <param name="Средняя оценка">5.0</param>
+            <param name="Категория">Вторая категория</param>
+            <param name="Город клиники">г. Москва</param>
+            <param name="Адрес клиники">Ленинский проспект, 131</param>
+            <param name="Название клиники">Дока-Дент</param>
+            <param name="Возможность записи">true</param>
+            <param name="Онлайн-расписание">true</param>
+            <param name="Телефон для записи">+74953690197</param>
+            <param name="Идентификатор организации">1234567890</param>
+            <param name="Прием по ОМС">false</param>
+            <param name="Вызов на дом">false</param>
+            <param name="Прием по видеосвязи">false</param>
+            <param name="Образование - 1" unit="Организация">Первый Московский государственный медицинский университет</param>
+            <param name="Образование - 1" unit="Дата">2021</param>
+            <param name="Образование - 1" unit="Название">Базовое образование</param>
+            <param name="Образование - 1" unit="Специализация">Стоматология</param>
+            <param name="Образование - 2" unit="Организация">НМИЦ Центральный научно-исследовательский институт стоматологии и челюстно-лицевой хирургии</param>
+            <param name="Образование - 2" unit="Дата">2023</param>
+            <param name="Образование - 2" unit="Название">Интернатура</param>
+            <param name="Образование - 2" unit="Специализация">Ортодонтия</param>
+            <param name="Место работы - 1" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 1" unit="Дата">2020-н.в.</param>
+            <param name="Место работы - 1" unit="Название">стоматолог-ортодонт</param>
+         </offer>
+
+         <!-- Деева Наталья Николаевна -->
+         <offer id="deeva" group_id="8">
+            <name>Деева Наталья Николаевна</name>
+            <url>https://doka-dent.ru/?deeva</url>
+            <price from="true">2500</price>
+            <oldprice>3000</oldprice>
+            <currencyId>RUR</currencyId>
+            <sales_notes>Первичный прием</sales_notes>
+            <set-ids>stomatolog,terapevt</set-ids>
+            <picture>https://feeds-doka-dent.ru/feed/images/deeva.jpg</picture>
+            <description>Специализируется на лечении кариеса, пульпита, периодонтита под микроскопом</description>
+            <categoryId>1</categoryId>
+            <param name="Фамилия">Деева</param>
+            <param name="Имя">Наталья</param>
+            <param name="Отчество">Николаевна</param>
+            <param name="Годы опыта">29</param>
+            <param name="Начало карьеры">1996-01-01</param>
+            <param name="Город">г. Москва</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">true</param>
+            <param name="Число отзывов">10</param>
+            <param name="Средняя оценка">5.0</param>
+            <param name="Категория">Высшая категория</param>
+            <param name="Город клиники">г. Москва</param>
+            <param name="Адрес клиники">Ленинский проспект, 131</param>
+            <param name="Название клиники">Дока-Дент</param>
+            <param name="Возможность записи">true</param>
+            <param name="Онлайн-расписание">true</param>
+            <param name="Телефон для записи">+74953690197</param>
+            <param name="Идентификатор организации">1234567890</param>
+            <param name="Прием по ОМС">false</param>
+            <param name="Вызов на дом">false</param>
+            <param name="Прием по видеосвязи">false</param>
+            <param name="Образование - 1" unit="Организация">Ставропольский медицинский институт</param>
+            <param name="Образование - 1" unit="Дата">1996</param>
+            <param name="Образование - 1" unit="Название">Базовое образование</param>
+            <param name="Образование - 1" unit="Специализация">Стоматология</param>
+            <param name="Образование - 2" unit="Организация">53 интернатура медицинского состава КДВО</param>
+            <param name="Образование - 2" unit="Дата">1997</param>
+            <param name="Образование - 2" unit="Название">Интернатура</param>
+            <param name="Образование - 2" unit="Специализация">Терапевтическая стоматология</param>
+            <param name="Место работы - 1" unit="Организация">в/ч</param>
+            <param name="Место работы - 1" unit="Дата">1996-2000</param>
+            <param name="Место работы - 1" unit="Название">врач-стоматолог</param>
+            <param name="Место работы - 2" unit="Организация">ООО «Дантист»</param>
+            <param name="Место работы - 2" unit="Дата">2000-2009</param>
+            <param name="Место работы - 2" unit="Название">врач-стоматолог</param>
+            <param name="Место работы - 3" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 3" unit="Дата">2010-н.в.</param>
+            <param name="Место работы - 3" unit="Название">стоматолог-терапевт</param>
+         </offer>
+
+         <!-- Абдулхалимов Шамиль Магомедович -->
+         <offer id="abdulhalimov" group_id="9">
+            <name>Абдулхалимов Шамиль Магомедович</name>
+            <url>https://doka-dent.ru/?abdulhalimov</url>
+            <price from="true">2500</price>
+            <oldprice>3000</oldprice>
+            <currencyId>RUR</currencyId>
+            <sales_notes>Первичный прием</sales_notes>
+            <set-ids>stomatolog,hirurg,ortoped</set-ids>
+            <picture>https://feeds-doka-dent.ru/feed/images/abdulhalimov.jpg</picture>
+            <description>Специализируется на лечении кариеса, пульпита, периодонтита, имплантации, протезировании, удалении</description>
+            <categoryId>1</categoryId>
+            <param name="Фамилия">Абдулхалимов</param>
+            <param name="Имя">Шамиль</param>
+            <param name="Отчество">Магомедович</param>
+            <param name="Годы опыта">11</param>
+            <param name="Начало карьеры">2013-01-01</param>
+            <param name="Город">г. Москва</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            <param name="Число отзывов">10</param>
+            <param name="Средняя оценка">5.0</param>
+            <param name="Категория">Первая категория</param>
+            <param name="Город клиники">г. Москва</param>
+            <param name="Адрес клиники">Ленинский проспект, 131</param>
+            <param name="Название клиники">Дока-Дент</param>
+            <param name="Возможность записи">true</param>
+            <param name="Онлайн-расписание">true</param>
+            <param name="Телефон для записи">+74953690197</param>
+            <param name="Идентификатор организации">1234567890</param>
+            <param name="Прием по ОМС">false</param>
+            <param name="Вызов на дом">false</param>
+            <param name="Прием по видеосвязи">false</param>
+            <param name="Образование - 1" unit="Организация">Российский национальный исследовательский медицинский университет имени Н.И. Пирогова</param>
+            <param name="Образование - 1" unit="Дата">2014</param>
+            <param name="Образование - 1" unit="Название">Базовое образование</param>
+            <param name="Образование - 1" unit="Специализация">Стоматология</param>
+            <param name="Образование - 2" unit="Организация">ГБОУ ВПО РНИМУ имени Н.И. Пирогова</param>
+            <param name="Образование - 2" unit="Дата">2015</param>
+            <param name="Образование - 2" unit="Название">Интернатура</param>
+            <param name="Образование - 2" unit="Специализация">Стоматология общей практики</param>
+            <param name="Место работы - 1" unit="Организация">ООО «ДоКа-Дент плюс»</param>
+            <param name="Место работы - 1" unit="Дата">2013-н.в.</param>
+            <param name="Место работы - 1" unit="Название">стоматолог-хирург-ортопед</param>
+         </offer>
       </offers>
    </shop>
 </yml_catalog>
