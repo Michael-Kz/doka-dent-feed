@@ -57,7 +57,7 @@
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">true</param>
             <param name="Число отзывов">10</param>
-            <param name="Средняя оценка">5.0</param>
+            
             <param name="Категория">Высшая категория</param>
             <param name="Город клиники">г. Москва</param>
             <param name="Адрес клиники">Ленинский проспект, 131</param>
@@ -124,7 +124,7 @@
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">true</param>
             <param name="Число отзывов">10</param>
-            <param name="Средняя оценка">5.0</param>
+            
             <param name="Категория">Первая категория</param>
             <param name="Город клиники">г. Москва</param>
             <param name="Адрес клиники">Ленинский проспект, 131</param>
@@ -173,7 +173,7 @@
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">false</param>
             <param name="Число отзывов">10</param>
-            <param name="Средняя оценка">5.0</param>
+            
             <param name="Степень">Кандидат медицинских наук</param>
             <param name="Категория">Высшая категория</param>
             <param name="Город клиники">г. Москва</param>
@@ -232,7 +232,7 @@
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">false</param>
             <param name="Число отзывов">10</param>
-            <param name="Средняя оценка">5.0</param>
+            
             <param name="Категория">Первая категория</param>
             <param name="Город клиники">г. Москва</param>
             <param name="Адрес клиники">Ленинский проспект, 131</param>
@@ -285,7 +285,7 @@
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">true</param>
             <param name="Число отзывов">10</param>
-            <param name="Средняя оценка">5.0</param>
+            
             <param name="Категория">Первая категория</param>
             <param name="Город клиники">г. Москва</param>
             <param name="Адрес клиники">Ленинский проспект, 131</param>
@@ -334,7 +334,7 @@
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">true</param>
             <param name="Число отзывов">10</param>
-            <param name="Средняя оценка">5.0</param>
+            
             <param name="Категория">Высшая категория</param>
             <param name="Город клиники">г. Москва</param>
             <param name="Адрес клиники">Ленинский проспект, 131</param>
@@ -389,7 +389,7 @@
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">false</param>
             <param name="Число отзывов">10</param>
-            <param name="Средняя оценка">5.0</param>
+            
             <param name="Категория">Вторая категория</param>
             <param name="Город клиники">г. Москва</param>
             <param name="Адрес клиники">Ленинский проспект, 131</param>
@@ -435,7 +435,7 @@
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">true</param>
             <param name="Число отзывов">10</param>
-            <param name="Средняя оценка">5.0</param>
+            
             <param name="Категория">Высшая категория</param>
             <param name="Город клиники">г. Москва</param>
             <param name="Адрес клиники">Ленинский проспект, 131</param>
@@ -487,7 +487,7 @@
             <param name="Взрослый врач">true</param>
             <param name="Детский врач">false</param>
             <param name="Число отзывов">10</param>
-            <param name="Средняя оценка">5.0</param>
+            
             <param name="Категория">Первая категория</param>
             <param name="Город клиники">г. Москва</param>
             <param name="Адрес клиники">Ленинский проспект, 131</param>
