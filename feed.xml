@@ -5,7 +5,7 @@
       <company>Дока-Дент</company>
       <url>https://doka-dent.ru/</url>
       <email>doka.dent@mail.ru</email>
-      <picture>http://feeds-doka-dent.ru/feed/logo.jpg</picture>
+      <picture>https://static.tildacdn.com/tild3030-3239-4664-b834-333734383135/svg_1732909697571.svg</picture>
       <description>Стоматологи «Дока-Дент»</description>
       <currencies>
          <currency id="RUR" rate="1"/>
@@ -39,13 +39,13 @@
          <!-- Канорова Ирина Леонидовна -->
          <offer id="kanorova" group_id="1">
             <name>Канорова Ирина Леонидовна</name>
-            <url>https://doka-dent.ru/?kanorova</url>
+            <url>https://doka-dent.ru/kanorova-irina-leonidovna</url>
             <price from="true">3000</price>
             <oldprice>4000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
             <set-ids>stomatolog,terapevt</set-ids>
-            <picture>https://feeds-doka-dent.ru/feed/images/kanorova.jpg</picture>
+            <picture>https://optim.tildacdn.com/tild6466-3038-4961-b264-663161393337/-/resize/416x/-/format/webp/kanorova.jpg.webp</picture>
             <description>Специализируется на лечении кариеса, пульпита, периодонтита.</description>
             <categoryId>1</categoryId>
             <param name="Фамилия">Канорова</param>
@@ -82,7 +82,7 @@
             <param name="Место работы - 1" unit="Название">врач-стоматолог</param>
             <param name="Место работы - 2" unit="Организация">Стоматологическая поликлиника №6, г. Ташкент</param>
             <param name="Место работы - 2" unit="Дата">1987</param>
-            <param name="Место работы - 2" unit="Название">врач-стоматолог</param>
+            <param name="Место работы - 2" unit="Название">врач-stomatolog</param>
             <param name="Место работы - 3" unit="Организация">Центральная поликлиника МВД УзССР</param>
             <param name="Место работы - 3" unit="Дата">1988-1994</param>
             <param name="Место работы - 3" unit="Название">врач-стоматолог-терапевт</param>
@@ -106,13 +106,13 @@
          <!-- Ким Алла Александровна -->
          <offer id="kim" group_id="2">
             <name>Ким Алла Александровна</name>
-            <url>https://doka-dent.ru/?kim</url>
+            <url>https://doka-dent.ru/kim-alla-aleksandrovna</url>
             <price from="true">2500</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
             <set-ids>stomatolog,terapevt</set-ids>
-            <picture>https://feeds-doka-dent.ru/feed/images/kim.jpg</picture>
+            <picture>https://optim.tildacdn.com/tild6362-3663-4232-a237-666432393164/-/resize/416x/-/format/webp/kim.jpg.webp</picture>
             <description>Специализируется на лечении кариеса, пульпита, периодонтита под микроскопом, протезировании</description>
             <categoryId>1</categoryId>
             <param name="Фамилия">Ким</param>
@@ -155,13 +155,13 @@
          <!-- Привалов Вячеслав Васильевич -->
          <offer id="privalov" group_id="3">
             <name>Привалов Вячеслав Васильевич</name>
-            <url>https://doka-dent.ru/?privalov</url>
+            <url>https://doka-dent.ru/privalov-vyacheslav-vasilevich</url>
             <price from="true">5000</price>
             <oldprice>6000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
             <set-ids>stomatolog,hirurg,ortoped</set-ids>
-            <picture>https://feeds-doka-dent.ru/feed/images/privalov.jpg</picture>
+            <picture>https://optim.tildacdn.com/tild3137-6161-4563-b031-633364643466/-/resize/416x/-/format/webp/privalov.jpg.webp</picture>
             <description>Специализируется на имплантации, протезировании, удалении</description>
             <categoryId>1</categoryId>
             <param name="Фамилия">Привалов</param>
@@ -194,7 +194,7 @@
             <param name="Образование - 2" unit="Дата">2003</param>
             <param name="Образование - 2" unit="Название">Интернатура</param>
             <param name="Образование - 2" unit="Специализация">Стоматология</param>
-            <param name="Место работы - 1" unit="Организация">МУЗ «Стоматологическая поликлиника №1» г. Мурманск</param>
+            <param name="Место работы - 1" unit="Организация">MУЗ «Стоматологическая поликлиника №1» г. Мурманск</param>
             <param name="Место работы - 1" unit="Дата">2002-2003</param>
             <param name="Место работы - 1" unit="Название">врач-стоматолог</param>
             <param name="Место работы - 2" unit="Организация">ООО «Стоматологическая клиника Доктора Антуана»</param>
@@ -214,13 +214,13 @@
          <!-- Слабковская Наталья Игоревна -->
          <offer id="slabkovskaya" group_id="4">
             <name>Слабковская Наталья Игоревна</name>
-            <url>https://doka-dent.ru/?slabkovskaya</url>
+            <url>https://doka-dent.ru/slabkovskaya-natalya-igorevna</url>
             <price from="true">2500</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
             <set-ids>stomatolog,ortodont</set-ids>
-            <picture>https://feeds-doka-dent.ru/feed/images/slabkovskaya.jpg</picture>
+            <picture>https://optim.tildacdn.com/tild3130-3262-4463-b962-366535313563/-/resize/416x/-/format/webp/slabkovskaya.jpg.webp</picture>
             <description>Специализируется на коррекции прикуса с использованием современных брекет-систем, съёмных и несъёмных аппаратов и элайнеров</description>
             <categoryId>1</categoryId>
             <param name="Фамилия">Слабковская</param>
@@ -267,13 +267,13 @@
          <!-- Поташева Елена Леонидовна -->
          <offer id="potasheva" group_id="5">
             <name>Поташева Елена Леонидовна</name>
-            <url>https://doka-dent.ru/?potasheva</url>
+            <url>https://doka-dent.ru/potasheva-elena-leonidovna</url>
             <price from="true">2500</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
             <set-ids>stomatolog,hirurg,ortoped,terapevt</set-ids>
-            <picture>https://feeds-doka-dent.ru/feed/images/potasheva.jpg</picture>
+            <picture>https://optim.tildacdn.com/tild3739-3164-4164-a363-376166373739/-/resize/416x/-/format/webp/potasheva.jpg.webp</picture>
             <description>Специализируется на лечении кариеса, пульпита, периодонтита, удалении, имплантации, протезировании</description>
             <categoryId>1</categoryId>
             <param name="Фамилия">Поташева</param>
@@ -316,13 +316,13 @@
          <!-- Лукина Ирина Александровна -->
          <offer id="lukina" group_id="6">
             <name>Лукина Ирина Александровна</name>
-            <url>https://doka-dent.ru/?lukina</url>
+            <url>https://doka-dent.ru/lukina-irina-aleksandrovna</url>
             <price from="true">2500</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
             <set-ids>stomatolog,terapevt</set-ids>
-            <picture>https://feeds-doka-dent.ru/feed/images/lukina.png</picture>
+            <picture>https://static.tildacdn.com/tild3732-3165-4763-a462-326630666632/lukina.png</picture>
             <description>Специализируется на лечении кариеса, пульпита, периодонтита под микроскопом</description>
             <categoryId>1</categoryId>
             <param name="Фамилия">Лукина</param>
@@ -352,7 +352,7 @@
             <param name="Образование - 1" unit="Специализация">Стоматология</param>
             <param name="Образование - 2" unit="Организация">Нижегородская государственная медицинская академия</param>
             <param name="Образование - 2" unit="Дата">1999</param>
-            <param name="Образование - 2" unit="Название">Интернатура</param>
+            <param name="Образование - 2" unit="Название">Инternship</param>
             <param name="Образование - 2" unit="Специализация">Терапевтическая стоматология</param>
             <param name="Место работы - 1" unit="Организация">Поликлиника №35</param>
             <param name="Место работы - 1" unit="Дата">1999-2000</param>
@@ -371,13 +371,13 @@
          <!-- Модина Софья Владимировна -->
          <offer id="modina" group_id="7">
             <name>Модина Софья Владимировна</name>
-            <url>https://doka-dent.ru/?modina</url>
+            <url>https://doka-dent.ru/modina-sofya-vladimirovna</url>
             <price from="true">2500</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
             <set-ids>stomatolog,ortodont</set-ids>
-            <picture>https://feeds-doka-dent.ru/feed/images/modina.jpg</picture>
+            <picture>https://optim.tildacdn.com/tild6463-3563-4038-a336-373866366364/-/resize/416x/-/format/webp/modina.jpg.webp</picture>
             <description>Специализируется на коррекции прикуса с использованием современных брекет-систем, съёмных и несъёмных аппаратов и элайнеров</description>
             <categoryId>1</categoryId>
             <param name="Фамилия">Модина</param>
@@ -417,13 +417,13 @@
          <!-- Деева Наталья Николаевна -->
          <offer id="deeva" group_id="8">
             <name>Деева Наталья Николаевна</name>
-            <url>https://doka-dent.ru/?deeva</url>
+            <url>https://doka-dent.ru/deeva-natalya-nikolaevna</url>
             <price from="true">2500</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
             <set-ids>stomatolog,terapevt</set-ids>
-            <picture>https://feeds-doka-dent.ru/feed/images/deeva.jpg</picture>
+            <picture>https://optim.tildacdn.com/tild3763-3931-4364-a266-333265383166/-/resize/416x/-/format/webp/deeva.jpg.webp</picture>
             <description>Специализируется на лечении кариеса, пульпита, периодонтита под микроскопом</description>
             <categoryId>1</categoryId>
             <param name="Фамилия">Деева</param>
@@ -469,13 +469,13 @@
          <!-- Абдулхалимов Шамиль Магомедович -->
          <offer id="abdulhalimov" group_id="9">
             <name>Абдулхалимов Шамиль Магомедович</name>
-            <url>https://doka-dent.ru/?abdulhalimov</url>
+            <url>https://doka-dent.ru/abdulhalimov-shamil-magomedovich</url>
             <price from="true">2500</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
             <set-ids>stomatolog,hirurg,ortoped</set-ids>
-            <picture>https://feeds-doka-dent.ru/feed/images/abdulhalimov.jpg</picture>
+            <picture>https://optim.tildacdn.com/tild3261-3031-4436-b938-363764306330/-/resize/416x/-/format/webp/abdulhalimov.jpg.webp</picture>
             <description>Специализируется на лечении кариеса, пульпита, периодонтита, имплантации, протезировании, удалении</description>
             <categoryId>1</categoryId>
             <param name="Фамилия">Абдулхалимов</param>
